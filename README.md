@@ -1,11 +1,9 @@
-# UFO
-
-1.	Overview of the analysis
+## 1.	UFO Overview of the analysis
 
 The objective of the challenge is to improve the webpage allowing users to filter for multiple criteria at the same time. Also, to add table filters for the city, state, country, and shape.
 
-2.	Results
-3.	
+## 2.	Results
+
 First all, this is the first picture of the webpage, where is possible to see all the data retrieve from the data.js file.
 
 ![image](https://user-images.githubusercontent.com/95872614/159183723-0a1fb566-2754-405d-b8da-96d8efcf4e92.png)
@@ -26,7 +24,7 @@ Subsequently the user may perform searches even more specific, such as: by state
 
 ![image](https://user-images.githubusercontent.com/95872614/159183754-3678c22a-1b45-48e3-8192-058e02ab0898.png)
 
-3. Summary
+## 3. Summary
 
 3.1 Opportunity area
 
