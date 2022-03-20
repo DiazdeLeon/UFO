@@ -31,7 +31,7 @@ Subsequently the user may perform searches even more specific, such as: by state
 - The user must type all the name of each of the filters.
 - There is not a “clean search” button.
 
-3.2	recommendations 
+3.2	Recommendations 
 
 - I would recommend adding one more filter for the duration of the event. 
 - To allow to upload and/or retrieve pictures of the events. 
