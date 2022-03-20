@@ -26,7 +26,7 @@ Subsequently the user may perform searches even more specific, such as: by state
 
 ## 3. Summary
 
-3.1 Opportunity area
+3.1 Opportunity Areas
 
 - The user must type all the name of each of the filters.
 - There is not a “clean search” button.
